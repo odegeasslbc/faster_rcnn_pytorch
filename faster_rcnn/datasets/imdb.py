@@ -273,3 +273,4 @@ class imdb(object):
     def competition_mode(self, on):
         """Turn competition mode on or off."""
         pass
+
